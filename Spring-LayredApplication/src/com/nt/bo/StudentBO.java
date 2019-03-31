@@ -12,6 +12,7 @@ public class StudentBO {
 	public int getSno() {
 		return sno;
 	}
+	//
 	public void setSno(int sno) {
 		this.sno = sno;
 	}
